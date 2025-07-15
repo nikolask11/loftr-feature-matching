@@ -5,9 +5,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import torch
 from kornia_moons.viz import draw_LAF_matches
-
-
-
 from kornia.feature import LoFTR
 
 img1 = K.io.load_image("image1.jpeg", K.io.ImageLoadType.RGB32)[None, ...]
