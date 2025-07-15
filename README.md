@@ -30,6 +30,8 @@ Install the required Python packages:
 ```bash
 pip install kornia torch opencv-python matplotlib kornia_moons
 
+````````
+
 ---
 
 ## Credits
