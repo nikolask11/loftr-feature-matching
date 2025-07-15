@@ -29,3 +29,10 @@ Install the required Python packages:
 
 ```bash
 pip install kornia torch opencv-python matplotlib kornia_moons
+
+---
+
+## Credits
+
+This project uses code and concepts borrowed from the Hugging Face Computer Vision course.
+All credits go to the Hugging Face team and the original authors. I encourage you to check out their course: https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome
